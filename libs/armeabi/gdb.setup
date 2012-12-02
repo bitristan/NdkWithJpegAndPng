@@ -1,2 +1,2 @@
 set solib-search-path ./obj/local/armeabi
-directory /Users/tristan/Tools/android-ndk-r8/platforms/android-8/arch-arm/usr/include jni/libjpeg jni/libpng /Users/tristan/Tools/android-ndk-r8/sources/cxx-stl/system
+directory /Users/tristan/Tools/android-ndk-r8/platforms/android-8/arch-arm/usr/include jni/libexif jni/libjpeg jni/libpng /Users/tristan/Tools/android-ndk-r8/sources/cxx-stl/system
